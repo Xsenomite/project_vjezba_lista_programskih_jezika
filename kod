@@ -1,0 +1,264 @@
+<!doctype html>
+
+<html>
+
+<head>
+	<title>Lista relevantnih programskih jezika u 2018. godini</title>
+</head>
+
+<br>
+
+<body>
+
+<h2>1. Java</h2>
+
+<p>Programski jezik kojeg je napravio James Gosling.</p>
+<p>Razvoj je započeo 1991. a objavljen je 1995. godine</p>
+<p>Najviše se koristi za pravljenje aplikacija za mobilne uređaje sa operativnim sustavom Android.</p>
+
+<h4>Graf Javinog rasta u popularnosti il neš tak idk idc</h4>
+
+<a href="Java_graf.png">
+
+			<img src="Java_graf.png"  alt="Java graf" width="500" height="250">
+			
+			</a>
+
+<br>
+
+<h2>2. C</h2>
+
+<p>Programski jezik kojeg je napravio Denis Ritchie.</p>
+<p>Razvijen je u ranim 70-im godinama 20. stoljeća.</p>
+<p>Uglavnom se koristi za sistemske programe na strani poslužitelja, programe prevoditelje i jezgre operativnih sustava</p>
+
+<h4>Graf C-ovog rasta u popularnosti il tak neš idk idc</h4>
+
+<a href="C_graf.png">
+
+			<img src="C_graf.png"  alt="C graf" width="500" height="250">
+			
+			</a>
+
+<br>
+
+<h2>3. Python</h2>
+
+<p></p>
+
+<a href="Python_graf.png">
+
+			<img src="Python_graf.png"  alt="Python graf" width="500" height="250">
+			
+			</a>
+
+<br>
+
+<h2>4. C++</h2>
+
+<p></p>
+
+<a href="Python_graf.png">
+
+			<img src="Python_graf.png"  alt="Python graf" width="500" height="250">
+			
+			</a>
+
+<br>
+
+<h2>5. Visual Basic .Net</h2>
+
+<p></p>
+
+<a href="VB.Net_graf.png">
+
+			<img src="VB.Net_graf.png"  alt="VB .Net graf" width="500" height="250">
+			
+			</a>
+
+<br>
+
+<h2>6. C#</h2>
+
+<p></p>
+
+<a href="Csharp_graf.png">
+
+			<img src="Csharp_graf.png"  alt="Csharp graf" width="500" height="250">
+			
+			</a>
+
+<br>
+
+<h2>7. JavaScript</h2>
+
+<p></p>
+
+<a href="JavaScript_graf.png">
+
+			<img src="JavaScript_graf.png"  alt="JavaScript graf" width="500" height="250">
+			
+			</a>
+
+<br>
+
+<h2>8. PHP</h2>
+
+<p></p>
+
+<a href="PHP_graf.png">
+
+			<img src="PHP_graf.png"  alt="PHP graf" width="500" height="250">
+			
+			</a>
+
+<br>
+
+<h2>9. SQL</h2>
+
+<p></p>
+
+<a href="SQL_graf.png">
+
+			<img src="SQL_graf.png"  alt="SQL graf" width="500" height="250">
+			
+			</a>
+
+<br>
+
+<h2>10. Objective-C</h2>
+
+<p></p>
+
+<a href="Objective-C_graf.png">
+
+			<img src="Objective-C_graf.png"  alt="Objective-C graf" width="500" height="250">
+			
+			</a>
+
+<br>
+
+<h2>11. Deplhi/Object Pascal</h2>
+
+<p></p>
+
+<a href="Delphi_graf.png">
+
+			<img src="Delphi_graf.png"  alt="Delphi graf" width="500" height="250">
+			
+			</a>
+
+<br>
+
+<h2>12. Assembly language</h2>
+
+<p></p>
+
+<a href="Assembly_graf.png">
+
+			<img src="Assembly_graf.png"  alt="Assembly graf" width="500" height="250">
+			
+			</a>
+
+<br>
+
+<h2>13. MATLAB</h2>
+
+<p></p>
+
+<a href="MATLAB_graf.png">
+
+			<img src="MATLAB_graf.png"  alt="MATLAB graf" width="500" height="250">
+			
+			</a>
+
+<br>
+
+<h2>14. Swift</h2>
+
+<p></p>
+
+<a href="Swift_graf.png">
+
+			<img src="Swift_graf.png"  alt="Swift graf" width="500" height="250">
+			
+			</a>
+
+<br>
+
+<h2>15. Go</h2>
+
+<p></p>
+
+<a href="Go_graf.png">
+
+			<img src="Go_graf.png"  alt="Go graf" width="500" height="250">
+			
+			</a>
+
+<br>
+
+<h2>16. R</h2>
+
+<p></p>
+
+<a href="R_graf.png">
+
+			<img src="R_graf.png"  alt="R graf" width="500" height="250">
+			
+			</a>
+
+<br>
+
+<h2>17. Ruby</h2>
+
+<p></p>
+
+<a href="Ruby_graf.png">
+
+			<img src="Ruby_graf.png"  alt="Ruby graf" width="500" height="250">
+			
+			</a>
+
+<br>
+
+<h2>18. Perl</h2>
+
+<p></p>
+
+<a href="Perl_graf.png">
+
+			<img src="Perl_graf.png"  alt="Perl graf" width="500" height="250">
+			
+			</a>
+
+<br>
+
+<h2>19. Visual Basic</h2>
+
+<p></p>
+
+<a href="VB_graf.png">
+
+			<img src="VB_graf.png"  alt="VB graf" width="500" height="250">
+			
+			</a>
+
+<br>
+
+<h2>20. PL/SQl</h2>
+
+<p></p>
+
+<a href="PL-SQl_graf.png">
+
+			<img src="PL-SQL_graf.png"  alt="PL/SQL graf" width="500" height="250">
+			
+			</a>
+
+
+<div style="margin-top : 500px"></div>
+
+</body>
+
+</html>
