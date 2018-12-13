@@ -3,7 +3,19 @@
 <html>
 
 <head>
+
+<div style="margin-top : 100px"></div>
+
+<style> 
+
+h2, h4, p, a {
+	margin-left : 100px;
+}
+
+</style>
+
 	<title>Lista relevantnih programskih jezika u 2018. godini</title>
+
 </head>
 
 <br>
@@ -256,8 +268,7 @@
 			
 			</a>
 
-
-<div style="margin-top : 500px"></div>
+<div style="margin-bottom :100px"></div>
 
 </body>
 
