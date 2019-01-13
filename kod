@@ -4,13 +4,38 @@
 
 <head>
 
-<div style="margin-top : 100px"></div>
+<style>
 
-<style> 
+	body{
+		background-color: #F0FFFF;
+		margin: 5% 5%;
+		}
 
-h2, h4, p, a {
-	margin-left : 100px;
-}
+	h1  {
+		color: #000080;
+		font-family: monospace;
+		font-size: 35px;
+		}
+
+
+	h2  {
+		color: #0000FF;
+		font-size: 25px;
+		font-family: sans-serif;
+		}
+
+	img {
+		border: 2px solid;
+		color: #000000;
+		width: 500px;
+		height: 250px;
+		}
+
+	p   {
+		color: #4169E1;
+		font-size: 20px;
+		}
+
 
 </style>
 
@@ -22,59 +47,47 @@ h2, h4, p, a {
 
 <body>
 
-<h2>1. Java</h2>
+<h1>1.Java</h1>
 
-<p>Programski jezik kojeg je napravio James Gosling.</p>
-<p>Razvoj je započeo 1991. a objavljen je 1995. godine</p>
-<p>Najviše se koristi za pravljenje aplikacija za mobilne uređaje sa operativnim sustavom Android.</p>
+<p>Programski jezik kojeg je napravio James Gosling.<br>
+Razvoj je započeo 1991. a objavljen je 1995. godine.<br>
+Najviše se koristi za pravljenje aplikacija za mobilne uređaje sa operativnim sustavom Android.</p>
 
-<h4>Graf Javinog rasta u popularnosti il neš tak idk idc</h4>
-
-<a href="Java_graf.png">
-
-			<img src="Java_graf.png"  alt="Java graf" width="500" height="250">
-			
-			</a>
+<h2>Graf Javinog rasta u popularnosti il neš tak idk idc<br>
+	<img src="Java_graf.png"  alt="Java graf">
+</h2>
 
 <br>
 
-<h2>2. C</h2>
+<h1>2. C</h1>
 
-<p>Programski jezik kojeg je napravio Denis Ritchie.</p>
-<p>Razvijen je u ranim 70-im godinama 20. stoljeća.</p>
-<p>Uglavnom se koristi za sistemske programe na strani poslužitelja, programe prevoditelje i jezgre operativnih sustava</p>
+<p>Programski jezik kojeg je napravio Denis Ritchie.<br>
+Razvijen je u ranim 70-im godinama 20. stoljeća.<br>
+Uglavnom se koristi za sistemske programe na strani poslužitelja, programe prevoditelje i jezgre operativnih sustava.</p>
 
-<h4>Graf C-ovog rasta u popularnosti il tak neš idk idc</h4>
-
-<a href="C_graf.png">
-
-			<img src="C_graf.png"  alt="C graf" width="500" height="250">
-			
-			</a>
+<h2>Graf C-ovog rasta u popularnosti il tak neš idk idc<br>
+	<img src="C_graf.png"  alt="C graf">
+</h2>
 
 <br>
 
-<h2>3. Python</h2>
+<h1>3. Python</h1>
 
 <p></p>
 
-<a href="Python_graf.png">
-
-			<img src="Python_graf.png"  alt="Python graf" width="500" height="250">
+<h2> Graf Pythonovog rasta u popularnosti il tak neš idk idc<br>
+	<img src="Python_graf.png"  alt="Python graf">
+</h2>
 			
-			</a>
-
 <br>
 
 <h2>4. C++</h2>
 
 <p></p>
 
-<a href="Python_graf.png">
-
-			<img src="Python_graf.png"  alt="Python graf" width="500" height="250">
-			
-			</a>
+<h2>Graf C++-ovog rasta u popularnosti il tak neš idk idc<br>
+	<img src="C++_graf.png"  alt="C++ graf">
+</h2>
 
 <br>
 
@@ -268,7 +281,7 @@ h2, h4, p, a {
 			
 			</a>
 
-<div style="margin-bottom :100px"></div>
+
 
 </body>
 
